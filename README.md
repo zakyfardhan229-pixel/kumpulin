@@ -2,7 +2,9 @@
 
 Platform pengumpulan dan validasi tugas berbantuan AI. Siswa mengumpulkan foto tugas tanpa perlu akun, AI menganalisisnya berdasarkan Source of Truth dari admin, dan admin memegang keputusan final.
 
-Prinsip utama: **Source of Truth → Rekomendasi AI → Keputusan Final Admin**. AI adalah asisten, bukan penilai.
+Flow: 
+**Source of Truth → Rekomendasi AI → Keputusan Final Admin**. 
+AI disini berfungsi sebagai Asisten untuk membantu menentukan keputusan.
 
 ## Fitur
 
